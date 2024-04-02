@@ -1,0 +1,4 @@
+baseURL = 'https://simonhugh.xyz/'
+languageCode = 'en-gb'
+title = 'Simon H Moore'
+theme = 'risotto'
